@@ -1,0 +1,9 @@
+Source: loris
+Package: loris
+Version: 21.0.0
+Section: web
+Priority: optional
+Architecture: all
+Maintainer: John Saigle <john.saigle@mcin.ca>
+Depends: apache2, php7.2, php-cli, nodejs
+Description: LORISSSS
